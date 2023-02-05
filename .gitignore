@@ -1,0 +1,14 @@
+node_modules
+.vscode
+Library
+Build
+Logs
+obj
+UserSettings
+ProjectSettings
+.vsconfig
+.vs
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+.idea
+eternal-rail.sln
